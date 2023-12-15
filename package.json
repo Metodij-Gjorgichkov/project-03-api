@@ -1,0 +1,25 @@
+{
+  "name": "project-03-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metodij-Gjorgichkov/project-03-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metodij-Gjorgichkov/project-03-api/issues"
+  },
+  "homepage": "https://github.com/Metodij-Gjorgichkov/project-03-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  }
+}
